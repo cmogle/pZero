@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../src/ipc/types.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,qBAAqB,CAAC;AAErD,6DAA6D;AAC7D,MAAM,MAAM,SAAS,GAAG,MAAM,CAAC;AAE/B,yCAAyC;AACzC,MAAM,WAAW,OAAO,CAAC,CAAC,GAAG,OAAO;IAClC,IAAI,EAAE,SAAS,CAAC;IAChB,OAAO,EAAE,CAAC,CAAC;CACZ"}

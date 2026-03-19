@@ -1,0 +1,1 @@
+{"version":3,"file":"passThrough.d.ts","sourceRoot":"","sources":["../../src/asset/passThrough.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,KAAK,EAAE,cAAc,EAAE,QAAQ,EAAE,WAAW,EAAE,MAAM,YAAY,CAAC;AAExE,qBAAa,wBAAyB,YAAW,cAAc;IACvD,OAAO,CAAC,QAAQ,EAAE,QAAQ,EAAE,QAAQ,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,GAAG,OAAO,CAAC,WAAW,CAAC;CAG5F"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"stubAdapter.d.ts","sourceRoot":"","sources":["../../src/ai/stubAdapter.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,OAAO,KAAK,EAAE,gBAAgB,EAAE,QAAQ,EAAE,SAAS,EAAE,MAAM,YAAY,CAAC;AAIxE,qBAAa,mBAAoB,YAAW,gBAAgB;IAC1D,OAAO,CAAC,QAAQ,CAAS;gBAEb,QAAQ,GAAE,MAAsB;IAItC,QAAQ,CAAC,OAAO,EAAE,MAAM,EAAE,QAAQ,CAAC,EAAE,SAAS,GAAG,OAAO,CAAC,QAAQ,CAAC;CAGzE"}

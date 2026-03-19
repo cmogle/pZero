@@ -1,0 +1,26 @@
+{
+  "name": "@pzero/cli",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Phoenix OS CLI — init, run, inspect, deploy, plugin",
+  "type": "module",
+  "bin": {
+    "phoenix": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "eslint . --ext .ts",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@pzero/sdk": "workspace:*",
+    "commander": "^12.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.0"
+  }
+}

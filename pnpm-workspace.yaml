@@ -1,0 +1,7 @@
+packages:
+  - "packages/kernel"
+  - "packages/runtime"
+  - "packages/app"
+  - "packages/sdk"
+  - "packages/cli"
+  - "apps/demo"

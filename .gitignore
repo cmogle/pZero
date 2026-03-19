@@ -9,11 +9,17 @@
 /coverage
 
 # next.js
-/.next/
+.next/
 /out/
 
 # production
 /build
+
+# dependencies (nested)
+**/node_modules
+
+# phoenix cli
+.phoenix/
 
 # misc
 .DS_Store
